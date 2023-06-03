@@ -1,8 +1,14 @@
 body {
     text-align: center;
-    background-color: black;
+    
+    
 }
 
 h1 {
+    color: white;
+}
+
+p  {
+    margin-top: 5px;
     color: white;
 }
